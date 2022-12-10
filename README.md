@@ -1,4 +1,16 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Potr Pots landing page
+Landing page for Potr Pots
+
+- [DEMO LINK](https://glugovsky.github.io/potr-pots/)
+- [Design layout](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
+
+## Local development
+  - Tech stack: HTML5, Sass(SCSS), JS, BEM, Swiper
+  - Responsive design
+  
+  
+## Installing
+  1. Fork and clone this repository.
+  1. Open the cloned project.
+  1. Run `npm i` in the terminal.
+  1. Run `npm start`.
